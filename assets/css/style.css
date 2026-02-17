@@ -14,7 +14,10 @@ h1 {
     font-size: var(--heading-size);
     font-weight: var(--bold-weight);
     margin: 0;
-    
+    &:hover {
+        color: var(--yellow);
+        cursor: pointer;
+    }
 }
 p {
     font-family: var(--main-font);
