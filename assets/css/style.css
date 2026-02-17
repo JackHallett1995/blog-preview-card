@@ -37,6 +37,8 @@ p {
     align-items: center;
     border-radius: 20px;
     box-sizing: border-box;
+    box-shadow: 8px 8px #000000;
+    border: 1px solid #000000
 }
 .card-content {
     display: flex;
