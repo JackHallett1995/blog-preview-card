@@ -15,8 +15,8 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [View here](https://github.com/JackHallett1995/blog-preview-card)
+- Live Site URL: [View here](https://jackhallett1995.github.io/blog-preview-card/)
 
 ### Built with
 
@@ -27,4 +27,4 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@JackHallett1995](https://www.frontendmentor.io/profile/JackHallett1995)
