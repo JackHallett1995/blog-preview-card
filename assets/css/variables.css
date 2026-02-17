@@ -1,0 +1,18 @@
+:root {
+    --yellow: #F4D04E;
+    --dark-grey: #111111;
+    --light-grey: #6B6B6B;
+    --white: #FFFFFF;
+    --font: 'Figtree', serif;
+    --extra-bold-weight: 900;
+    --bold-weight: 700;
+    --medium-weight: 500;
+    --heading-size: 24px;
+    --sub-heading-size: 16px;
+    --paragraph-size: 14px;
+    --text-lineheight: 150%;
+    --text-letter-spacing: 0px;
+    --main-font: 'Figtree', sans-serif;
+    --heading-weight: 800;
+    --body-weight: 400;
+}
